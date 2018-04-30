@@ -1,0 +1,7 @@
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.exe.config
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.exe
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\bin\Debug\StudentGradeDemo.pdb
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.exe
+C:\Users\Chaos\source\repos\StudentGradeDemo\StudentGradeDemo\obj\Debug\StudentGradeDemo.pdb
